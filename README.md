@@ -7,8 +7,8 @@
 - I also have skills in some Web technologies and Frameworks such as HTML5 , CSS3 , Javascript , NodeJS , Angular , SpringBoot and some others interesting stuffs
 # 📫 How to reach me
 ### You can contact me by sending a message on my different social networks below.
-> Linkedin : https://www.linkedin.com/in/frank-kuete-9b5023149/
-> Mail : kuete.frank1@gmail.com
+[Linkedin] (https://www.linkedin.com/in/frank-kuete-9b5023149/)
+[ Mail ] ( kuete.frank1@gmail.com )
 <!---
 frankkuete/frankkuete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
